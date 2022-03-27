@@ -1,2 +1,2 @@
 # RefreshWebsite
-add a timer task to refresh a website you set
+add a timer task to refresh a website you want
